@@ -1,0 +1,17 @@
+@media print {
+    body {
+        -webkit-print-color-adjust: exact;
+    }
+
+    button {
+        visibility: hidden;
+    }
+
+    #instructions {
+        visibility: hidden;
+    }
+
+    #export{
+        display: none;
+    }
+}

@@ -11,8 +11,8 @@
     SeeGPA is an online tool that allows users to calculate their CGPA. 
     <br />
     <br />
-    <!-- <a href="https://github.com/github_username/repo_name">View Demo</a> -->
-    <!-- &middot; -->
+    <a href="https://seegpa.pages.dev/">View Demo</a>
+    &middot; 
     <a href="https://github.com/NilUygun/The-Readers-Shelf/issues/new?labels=bug">Report Bug</a>
     &middot;
     <a href="https://github.com/NilUygun/The-Readers-Shelf/issues/new?labels=enhancement">Request Feature</a>

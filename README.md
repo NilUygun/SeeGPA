@@ -13,9 +13,9 @@
     <br />
     <a href="https://seegpa.pages.dev/">View Demo</a>
     &middot; 
-    <a href="https://github.com/NilUygun/The-Readers-Shelf/issues/new?labels=bug">Report Bug</a>
+    <a href="https://github.com/NilUygun/SeeGPA/issues/new?labels=bug">Report Bug</a>
     &middot;
-    <a href="https://github.com/NilUygun/The-Readers-Shelf/issues/new?labels=enhancement">Request Feature</a>
+    <a href="https://github.com/NilUygun/SeeGPA/issues/new?labels=enhancement">Request Feature</a>
   </p>
 </div>
 
